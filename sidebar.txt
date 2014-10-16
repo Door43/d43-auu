@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[auu:home|Door43 (auu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-auu|d43-auu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-auu/archive/master.zip|d43-auu.zip]]
+
+**Recent Changes**
+{{changes>ns = auu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/auu|Ethnologue data]]
+
